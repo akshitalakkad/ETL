@@ -1,0 +1,10 @@
+1 Joey Vermont 10000 m
+2 Monica NewYork 15555 f
+3 Rachel Carolina 20000 f 
+4 Ross Hampshire 18000 m
+5 Chandler Oklahoma 50000 male
+6 Janice Michigan 10000 f
+7 Richard Colorado 45000 m
+8 Kathy NewJersey 20000 f
+9 Carol Wisconsin 30000 f
+10 Susanne Missouri 16000 female
